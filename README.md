@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on projects that fit into SDGs moreso the education sector
 - 🤔 I’m looking for help with estalishing a team of like minded individuals regardless of the skills they posses
-- 💬 Ask me about <code>
+- 💬 Ask me about code
 - ⚡ Fun fact: Not really fun but I play the guitar
 
 
